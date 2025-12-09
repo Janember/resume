@@ -66,7 +66,7 @@
                   Full Stack Developer
                 </p>
                 <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-8">
-                  Crafting exceptional digital experiences with modern technologies. Passionate about clean code, innovative solutions, and continuous learning.
+                  I'm someone who's passionate about gaming and learning the complex algorithms that games use. Also some web development
                 </p>
               </div>
             </div>
@@ -133,13 +133,13 @@
                 <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
                   <h3 class="text-2xl mb-4 text-pink-300">Who I Am</h3>
                   <p class="text-gray-300 leading-relaxed mb-4">
-                    I'm a passionate Full Stack Developer with a keen eye for design and a love for creating seamless digital experiences. With expertise spanning both frontend and backend technologies, I bring ideas to life through clean, efficient code.
+                    I’m someone who has always been curious about how things work behind the scenes. This curiosity initially led me into gaming, where I didn’t just play but also explored modding and scripting, trying to understand the mechanics and inner workings of the games I enjoyed. This passion for exploration naturally evolved into an interest in programming.                  
                   </p>
                   <p class="text-gray-300 leading-relaxed mb-4">
-                    My journey in web development has taught me that great applications are built on a foundation of solid engineering principles, user-centric design, and continuous learning. I thrive in collaborative environments where innovation meets execution.
+                    I began my programming journey with Python, experimenting with small projects and scripts that expanded my understanding of logic and problem-solving. From there, I explored C# and other languages, gradually building a foundation that allowed me to experiment with web development. This hands-on approach helped me gain practical experience and a deeper understanding of how software and web applications are built.                  
                   </p>
                   <p class="text-gray-300 leading-relaxed">
-                    When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or gaming to unwind and find inspiration in interactive experiences.
+                    Eventually, my focus shifted toward web development, starting with the basics—HTML, CSS, JavaScript, and PHP—and later advancing into modern frameworks like React, Vue, and Tailwind. Through these experiences, I’ve had the opportunity to work on a few projects professionally, which strengthened both my technical skills and my ability to turn ideas into functioning applications.         
                   </p>
                 </div>
               </div>
