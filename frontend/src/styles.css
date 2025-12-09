@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.text-outline {
+  -webkit-text-stroke: 2px rgb(209, 209, 209);
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(-50%, 0); }
+  50%      { transform: translate(-50%, -8px); }
+}
+
+.float-animation {
+  animation: float 2s infinite ease-in-out;
+}
