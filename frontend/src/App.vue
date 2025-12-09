@@ -63,7 +63,7 @@
                   Jane
                 </h1>
                 <p class="text-2xl md:text-3xl text-gray-300 mb-6">
-                  Full Stack Developer
+                  Full Stack and Game Developer
                 </p>
                 <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-8">
                   I'm someone who's passionate about gaming and learning the complex algorithms that games use. Also some web development
